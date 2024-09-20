@@ -1,1 +1,2 @@
-# motivational-quotes-recommendation-system
+Motivational Quotes Recommendation System
+This project is a motivational quotes recommendation system that leverages natural language processing (NLP) techniques to provide users with uplifting quotes based on their mood. Users can input their current emotional state, and the system intelligently filters and displays quotes that resonate with their feelings. By utilizing NLP algorithms, the system ensures that the recommendations are relevant and inspiring, making it a valuable tool for anyone seeking motivation and positivity in their daily life.
